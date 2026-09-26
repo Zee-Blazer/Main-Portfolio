@@ -139,7 +139,7 @@ export const portfolioData = {
     {
       company: "Biuda",
       role: "Lead Fullstack Developer",
-      period: "2023 — Present",
+      period: "January 2025 — June 2025",
       location: "Remote / Hybrid",
       isLead: true,
       description:
@@ -155,7 +155,7 @@ export const portfolioData = {
     {
       company: "GoMyCode",
       role: "Software Instructor",
-      period: "2022 — 2024",
+      period: "May 2024 — Present (Part-time)",
       location: "On-site / Hybrid",
       isLead: false,
       description:
@@ -171,7 +171,7 @@ export const portfolioData = {
     {
       company: "Urban Hive",
       role: "Software Engineer (Web & Mobile)",
-      period: "2022 — 2023",
+      period: "October 2024 — February 2026",
       location: "Hybrid",
       isLead: false,
       description:
@@ -186,7 +186,7 @@ export const portfolioData = {
     {
       company: "UserCanDo",
       role: "Frontend Developer",
-      period: "2021 — 2022",
+      period: "April 2025 — December 2025",
       location: "Remote",
       isLead: false,
       description:
